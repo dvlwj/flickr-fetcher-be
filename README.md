@@ -9,4 +9,5 @@ A simple example for fetching flicker API using ExpressJS.
 - check `localhost:{your_port_here}` to see the result and test
 
 ### Test
-TBA
+
+Run `npm run test`, this command will automatically using mocha and run the test scenario inside `./test/`
